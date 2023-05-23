@@ -297,7 +297,7 @@ html {
     color: #e7c21f;
     text-shadow: 0px 1px 2px #000;
     padding-left: 10%;
-    padding-bottom: 3rem;
+    padding-bottom: 4rem;
 }
 
 .jogo {
@@ -316,10 +316,10 @@ html {
 
 .inspiracao h3 {
     font-family: "Poppins", sans-serif;
-    font-size: 1.5rem;
+    font-size: 2rem;
     text-align: justify;
     line-height: 1rem;
-    color: #fff;
+    color: #e7c21f;
     margin-bottom: 1rem;
 }
 
@@ -330,11 +330,14 @@ html {
     line-height: 1.5rem;
     width: 70%;
     color: #fff;
+    margin-top: 2%;
 }
 
 .inspiracao img {
     width: 70%;
     height: 60%;
+    -webkit-box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.5);
+    box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.5);
 }
 
 .objetivo {
@@ -345,10 +348,10 @@ html {
 
 .objetivo h3 {
     font-family: "Poppins", sans-serif;
-    font-size: 1.5rem;
+    font-size: 2rem;
     text-align: justify;
     line-height: 1rem;
-    color: #fff;
+    color: #e7c21f;
     margin-bottom: 1rem;
     margin-left: 20%;
 }
@@ -361,12 +364,15 @@ html {
     width: 70%;
     color: #fff;
     margin-left: 20%;
+    margin-top: 2%;
 }
 
 .objetivo img {
     width: 70%;
     height: 60%;
     margin-left: 20%;
+    -webkit-box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.5);
+    box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.5);
 }
 
 .desenvolvimento {
@@ -378,10 +384,10 @@ html {
 
 .desenvolvimento h3 {
     font-family: "Poppins", sans-serif;
-    font-size: 1.5rem;
+    font-size: 2rem;
     text-align: justify;
     line-height: 1rem;
-    color: #fff;
+    color: #e7c21f;
     margin-bottom: 1rem;
 }
 
@@ -392,11 +398,14 @@ html {
     line-height: 1.5rem;
     width: 70%;
     color: #fff;
+    margin-top: 2%;
 }
 
 .desenvolvimento img {
     width: 70%;
     height: 60%;
+    -webkit-box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.5);
+    box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.5);
 }
 
 .ferramentas {
@@ -407,10 +416,10 @@ html {
 
 .ferramentas h3 {
     font-family: "Poppins", sans-serif;
-    font-size: 1.5rem;
+    font-size: 2rem;
     text-align: justify;
     line-height: 1rem;
-    color: #fff;
+    color: #e7c21f;
     margin-bottom: 1rem;
     margin-left: 20%;
 }
@@ -423,10 +432,13 @@ html {
     width: 70%;
     color: #fff;
     margin-left: 20%;
+    margin-top: 2%;
 }
 
 .ferramentas img {
     width: 70%;
     height: 60%;
     margin-left: 20%;
+    -webkit-box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.5);
+    box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.5);
 }
