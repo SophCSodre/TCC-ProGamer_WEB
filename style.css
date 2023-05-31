@@ -315,6 +315,17 @@ html {
   box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.5);
 }
 
+.celula-grid-jogo {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  justify-content: flex-start;
+  align-items: center;
+  align-content: normal;
+}
+
 .jogo h3 {
   font-family: "Poppins", sans-serif;
   font-size: 2rem;
@@ -324,20 +335,8 @@ html {
   margin-bottom: 1rem;
 }
 
-.celula-grid-jogo {
-  width: 100%;
-  height: 100%;
-  display: flex;
-  flex-direction: column;
-  flex-wrap: nowrap;
-  justify-content: flex-start;
-  align-items: flex-start;
-  align-content: stretch;
-}
-
 .inspiracao {
   grid-area: 1 / 1 / 2 / 2;
-  padding-left: 20%;
 }
 
 .info-jogo {
@@ -354,37 +353,12 @@ html {
   grid-area: 1 / 2 / 2 / 3;
 }
 
-.objetivo h3 {
-  margin-left: 10%;
-}
-
-.objetivo p {
-  margin-left: 10%;
-}
-
-.objetivo img {
-  margin-left: 10%;
-}
-
 .desenvolvimento {
   grid-area: 2 / 1 / 3 / 2;
-  padding-left: 20%;
 }
 
 .ferramentas {
   grid-area: 2 / 2 / 3 / 3;
-}
-
-.ferramentas h3 {
-  margin-left: 10%;
-}
-
-.ferramentas p {
-  margin-left: 10%;
-}
-
-.ferramentas img {
-  margin-left: 10%;
 }
 
 /* =================================================================================== */
