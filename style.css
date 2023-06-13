@@ -224,6 +224,12 @@ html, body {
   gap: 5rem;
 }
 
+@media only screen and (min-width: 1920px) {
+  .menu{
+    margin-left: 10%;
+  }
+}
+
 .progamer {
   background-image: url(/img/inicio.png);
   background-size: contain;
@@ -452,6 +458,7 @@ padding: 0 0.3em;
 }
 
 .sobre-img {
+  max-width: 100px;
   width: 25%;
   height: 65%;
   margin-left: 25%;
